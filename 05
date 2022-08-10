@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Assignment05</title>
+    <style>
+        img {
+            border: 4px solid black;
+        }
+    </style>
+</head>
+
+<body>
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJNNxTw91oXCXw-jI03YfNxp-jEWXg0BuAHdSl02TKlNan5aUputhaDqifWQ&s"
+        alt="yuvraj singh" height="344px" width="344px">
+    <br>
+
+
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIYMjEkc7JGaNUeVIZ2gcetaWV9gPnB_JDCdlCOgXzO_sdTnYjRFc3j5BQ8w&s"
+        alt="virender sehwag" height="344px" width="344px">
+</body>
+
+</html>
